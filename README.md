@@ -31,7 +31,7 @@ I'm continuously working on enhancing my skills and currently diving into:
 
 Feel free to reach out via:
 
-- [LinkedIn](Your LinkedIn URL)
+- [https://www.linkedin.com/in/talha-shah-482538317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](Your LinkedIn URL)
 - [syedtalhashah@gmail.com]
 
 Looking forward to collaborating and connecting with developers!
