@@ -32,6 +32,6 @@ I'm continuously working on enhancing my skills and currently diving into:
 Feel free to reach out via:
 
 - [LinkedIn](Your LinkedIn URL)
-- [Email](syedtalhashah@gmail.com)
+- [syedtalhashah@gmail.com]
 
 Looking forward to collaborating and connecting with developers!
